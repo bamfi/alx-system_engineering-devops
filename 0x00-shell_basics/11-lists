@@ -1,2 +1,5 @@
 #!/bin/bash
 ls -al . .. /boot  
+file /tmp/Iamfile  
+file /tmp/Iamfile
+file /tmp/Iamfile  
